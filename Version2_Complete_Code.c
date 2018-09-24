@@ -1,3 +1,8 @@
+/*MOFIZA - The Humanoid Smart Robot made with just Arduino
+ * By Ashraf MInhaj  ashraf_minhaj_yahoo.com
+ * https://ashrafminhajfb.blogspot.com
+ *http://youtube.com/c/fusebatti */
+ 
 #include "ServoTimer2.h"
 #include"SD.h"
 #define SD_ChipSelectPin 10
