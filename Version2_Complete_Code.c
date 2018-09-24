@@ -1,5 +1,5 @@
 /*MOFIZA - The Humanoid Smart Robot made with just Arduino
- * By Ashraf MInhaj  ashraf_minhaj_yahoo.com
+ * By Ashraf Minhaj  ashraf_minhaj@yahoo.com
  * https://ashrafminhajfb.blogspot.com
  *http://youtube.com/c/fusebatti */
  
